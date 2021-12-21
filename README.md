@@ -1,3 +1,3 @@
-# irl-mountain-car
+# Bayesian-inverse-Reinforcement-Learning
 This repository contains the inverse reinforcement learning codes for the mountain car environment, from Open AI Gym. 
 https://gym.openai.com/
